@@ -3,3 +3,4 @@ ML-Lectures/Multiclass[[:space:]]Classification.mp4 filter=lfs diff=lfs merge=lf
 ML-Lectures/Regularization.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.wmv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
